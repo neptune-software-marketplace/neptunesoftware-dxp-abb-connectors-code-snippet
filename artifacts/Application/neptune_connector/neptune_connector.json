@@ -1,0 +1,76 @@
+{
+	"id": "f18c3099-323b-4942-9225-2227d2f35739",
+	"createdAt": "2023-05-18T04:14:51.000Z",
+	"createdBy": "ole-andre.haugen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "d25cb170-d604-494c-8c6c-827dc3baf501",
+					"fieldName": "Connector",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/Connector.js",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": {
+		"icon": null,
+		"documentation": "",
+		"containerId": null,
+		"attributes": [],
+		"topLevelObjects": []
+	},
+	"ver": "23.5.18.1211",
+	"application": "neptune_connector",
+	"title": "Use Adaptive Framework Connectors in App Designer",
+	"description": "Use Adaptive Framework Connectors in App Designer",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": true,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "E",
+	"ui5_m": false,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "file:///css.css",
+	"compiledCss": "file://script/undefined/undefined.script",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": 200,
+	"apis": [],
+	"package": "46be87f1-c9d6-458e-b537-3bea09c359b2"
+}

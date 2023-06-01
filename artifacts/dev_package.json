@@ -1,0 +1,55 @@
+{
+	"id": "46be87f1-c9d6-458e-b537-3bea09c359b2",
+	"createdAt": "2023-05-18T04:11:50.000Z",
+	"createdBy": "ole-andre.haugen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-connectors-code-snippet"
+	},
+	"name": "neptunesoftware-connector",
+	"description": "Use Adaptive Framework Connectors in App Designer",
+	"ver": "23.6.1.914",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "f18c3099-323b-4942-9225-2227d2f35739",
+			"application": "neptune_connector",
+			"title": "Use Adaptive Framework Connectors in App Designer",
+			"description": "Use Adaptive Framework Connectors in App Designer"
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [
+		{
+			"id": "8297d135-b5b0-40ad-88be-d6cad206c4ad",
+			"name": "Documentation",
+			"description": "Documentation on how to use Connectors in App Designer"
+		}
+	],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
